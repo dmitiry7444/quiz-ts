@@ -1,0 +1,36 @@
+
+
+.main {
+    padding-top: 190px;
+    padding-bottom: 231px;
+
+}
+.main .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-content {
+    max-width: 588px;
+}
+
+.main-title {
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 54px;
+    line-height: 65px;
+}
+
+.main-title span{
+    color: #6933DC;
+}
+
+.main-description {
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 24px;
+    max-width: 486px;
+}
+.main-button {
+    margin-top: 60px;
+}
