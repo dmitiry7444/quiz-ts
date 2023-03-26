@@ -3,7 +3,7 @@
 ### Backend launch
 
 ```sh
-cd backendp
+cd backend
 npm install
 npm run start
 ```
